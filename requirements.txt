@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.3
+pdfkit==1.0.0
+pylatexenc==2.10
+pyppeteer==1.0.2
+wikipedia==1.4.0
+Wikipedia2PDF==1.0
